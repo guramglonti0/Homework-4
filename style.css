@@ -1,0 +1,104 @@
+form{
+    background-color: #fff; 
+    position: absolute; 
+    width: 550px; 
+    height: 530px; 
+    padding: 100px 5px 20px 5px; 
+    margin: 5vh 1000px; 
+    border-radius: 5px; 
+    box-shadow: 0px 5px 5px -3px;
+}  
+input[type=text]{ 
+    display: block; 
+    background-color: #fff; 
+    margin:auto;
+    width: 250px; 
+    padding: 10px 40px; 
+    border: 1.5px solid rgb(195, 195, 195); 
+    border-radius: 5px; 
+    text-align: center; 
+    color: black;
+    font-size: 15px; 
+} 
+input[type=password]{
+    display: block; 
+    background-color: #fff; 
+    margin:auto;
+    width: 250px; 
+    padding: 10px 40px; 
+    border: 1.5px solid rgb(195, 195, 195); 
+    border-radius: 5px; 
+    text-align: center; 
+    color: black;
+    font-size: 17px; 
+}
+button{
+    border: none; 
+    background-color:  #1877F2; 
+    color: white; 
+    margin: auto; 
+    width: 330px; 
+    display: block; 
+    border-radius: 5px;
+    font-weight: bold;  
+    padding: 10px 0; 
+    cursor: pointer; 
+    font-family: Arial, Helvetica, sans-serif;
+}  
+.meore{
+    border: none; 
+    background-color:#42B72A;
+    color: white; 
+    margin: auto; 
+    width: 330px; 
+    display: block; 
+    border-radius: 5px;
+    font-weight: bold;  
+    padding: 10px 0; 
+    cursor: pointer; 
+    font-family: Arial, Helvetica, sans-serif;
+}
+.forget{
+    display: block; 
+    width: 200px; 
+    margin: auto; 
+    color: #1877F2; 
+    font-weight: 400; 
+    font-family: Arial, Helvetica, sans-serif;
+}   
+.line{
+    border-top: 1px solid rgb(19, 19, 19); 
+    opacity: 0.2;
+} 
+.fb{
+    width: 600px; 
+    margin-left: 300px; 
+    margin-top: 10vh; 
+    font-family: Arial, Helvetica, sans-serif; 
+} 
+.fb img{
+    width: 400px;
+} 
+*{
+    margin: 0; 
+    padding: 0;
+    text-decoration: none; 
+    outline: none; 
+    color: inherit; 
+} 
+body{
+    background-color: white
+} 
+.text{   
+    font-size: 28px;
+    margin-bottom: 150px; 
+    cursor: pointer; 
+    margin-left: 50px;
+} 
+.contact{ 
+    font-size: 20px;
+    margin-bottom: 150px; 
+    cursor: pointer; 
+    margin-left: 50px; 
+    color: rgb(55, 226, 43);  
+}
